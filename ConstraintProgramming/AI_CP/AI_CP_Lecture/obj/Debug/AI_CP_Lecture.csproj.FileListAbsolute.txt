@@ -1,0 +1,13 @@
+C:\Users\carla\Dropbox\HSLU-CI\8.FS18\AISO\pouly\Constraint Programming\CP Sources\AI_CP\AI_CP_Lecture\obj\Debug\AI_CP_Lecture.csprojResolveAssemblyReference.cache
+C:\Users\carla\Dropbox\HSLU-CI\8.FS18\AISO\pouly\Constraint Programming\CP Sources\AI_CP\AI_CP_Lecture\obj\Debug\AI_CP_Lecture.csproj.CoreCompileInputs.cache
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\Debug\AI_CP_Lecture.exe.config
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\Debug\AI_CP_Lecture.exe
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\Debug\AI_CP_Lecture.pdb
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\Debug\Google.OrTools.dll
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\Debug\Google.Protobuf.dll
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\Debug\Google.Protobuf.xml
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\obj\Debug\AI_CP_Lecture.csprojResolveAssemblyReference.cache
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\obj\Debug\AI_CP_Lecture.csproj.CoreCompileInputs.cache
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\obj\Debug\AI_CP_Lecture.csproj.CopyComplete
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\obj\Debug\AI_CP_Lecture.exe
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\obj\Debug\AI_CP_Lecture.pdb

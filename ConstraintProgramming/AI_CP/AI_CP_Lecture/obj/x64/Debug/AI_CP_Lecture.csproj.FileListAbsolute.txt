@@ -1,0 +1,10 @@
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\x64\Debug\AI_CP_Lecture.exe.config
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\x64\Debug\AI_CP_Lecture.exe
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\x64\Debug\AI_CP_Lecture.pdb
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\x64\Debug\Google.OrTools.dll
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\x64\Debug\Google.Protobuf.dll
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\bin\x64\Debug\Google.Protobuf.xml
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\obj\x64\Debug\AI_CP_Lecture.csproj.CoreCompileInputs.cache
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\obj\x64\Debug\AI_CP_Lecture.csproj.CopyComplete
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\obj\x64\Debug\AI_CP_Lecture.exe
+C:\Code\AISO\ConstraintProgramming\AI_CP\AI_CP_Lecture\obj\x64\Debug\AI_CP_Lecture.pdb

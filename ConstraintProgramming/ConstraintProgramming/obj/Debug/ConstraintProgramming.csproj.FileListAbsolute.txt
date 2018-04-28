@@ -1,0 +1,11 @@
+C:\Code\AISO\ConstraintProgramming\ConstraintProgramming\bin\Debug\ConstraintProgramming.exe.config
+C:\Code\AISO\ConstraintProgramming\ConstraintProgramming\bin\Debug\ConstraintProgramming.exe
+C:\Code\AISO\ConstraintProgramming\ConstraintProgramming\bin\Debug\ConstraintProgramming.pdb
+C:\Code\AISO\ConstraintProgramming\ConstraintProgramming\bin\Debug\Google.OrTools.dll
+C:\Code\AISO\ConstraintProgramming\ConstraintProgramming\bin\Debug\Google.Protobuf.dll
+C:\Code\AISO\ConstraintProgramming\ConstraintProgramming\bin\Debug\Google.Protobuf.xml
+C:\Code\AISO\ConstraintProgramming\ConstraintProgramming\obj\Debug\ConstraintProgramming.csprojResolveAssemblyReference.cache
+C:\Code\AISO\ConstraintProgramming\ConstraintProgramming\obj\Debug\ConstraintProgramming.csproj.CoreCompileInputs.cache
+C:\Code\AISO\ConstraintProgramming\ConstraintProgramming\obj\Debug\ConstraintProgramming.csproj.CopyComplete
+C:\Code\AISO\ConstraintProgramming\ConstraintProgramming\obj\Debug\ConstraintProgramming.exe
+C:\Code\AISO\ConstraintProgramming\ConstraintProgramming\obj\Debug\ConstraintProgramming.pdb

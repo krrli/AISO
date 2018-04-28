@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstraintProgramming", "ConstraintProgramming.csproj", "{42FFB4A4-A319-4A7F-BA58-0D460DC2F0F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_CP_Lecture", "..\AI_CP\AI_CP_Lecture\AI_CP_Lecture.csproj", "{DFBE869F-2544-41B2-AEAA-50A66F7C23A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42FFB4A4-A319-4A7F-BA58-0D460DC2F0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FFB4A4-A319-4A7F-BA58-0D460DC2F0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FFB4A4-A319-4A7F-BA58-0D460DC2F0F4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{42FFB4A4-A319-4A7F-BA58-0D460DC2F0F4}.Debug|x64.Build.0 = Debug|Any CPU
+		{42FFB4A4-A319-4A7F-BA58-0D460DC2F0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FFB4A4-A319-4A7F-BA58-0D460DC2F0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FFB4A4-A319-4A7F-BA58-0D460DC2F0F4}.Release|x64.ActiveCfg = Release|Any CPU
+		{42FFB4A4-A319-4A7F-BA58-0D460DC2F0F4}.Release|x64.Build.0 = Release|Any CPU
+		{DFBE869F-2544-41B2-AEAA-50A66F7C23A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBE869F-2544-41B2-AEAA-50A66F7C23A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBE869F-2544-41B2-AEAA-50A66F7C23A6}.Debug|x64.ActiveCfg = Debug|x64
+		{DFBE869F-2544-41B2-AEAA-50A66F7C23A6}.Debug|x64.Build.0 = Debug|x64
+		{DFBE869F-2544-41B2-AEAA-50A66F7C23A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBE869F-2544-41B2-AEAA-50A66F7C23A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBE869F-2544-41B2-AEAA-50A66F7C23A6}.Release|x64.ActiveCfg = Release|x64
+		{DFBE869F-2544-41B2-AEAA-50A66F7C23A6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {274E6116-F79D-4EF0-808F-BABE2E5E70E2}
+	EndGlobalSection
+EndGlobal

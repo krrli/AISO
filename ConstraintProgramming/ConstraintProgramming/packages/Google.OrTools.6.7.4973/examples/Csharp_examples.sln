@@ -1,0 +1,302 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio
+#Projects
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="3_jugs_regular","solution\3_jugs_regular.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="TaskScheduling","solution\TaskScheduling.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="a_puzzle","solution\a_puzzle.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="a_round_of_golf","solution\a_round_of_golf.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="all_interval","solution\all_interval.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="alldifferent_except_0","solution\alldifferent_except_0.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="assignment","solution\assignment.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="broken_weights","solution\broken_weights.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="bus_schedule","solution\bus_schedule.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="circuit","solution\circuit.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="circuit2","solution\circuit2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="coins3","solution\coins3.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="coins_grid","solution\coins_grid.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="combinatorial_auction2","solution\combinatorial_auction2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="contiguity_regular","solution\contiguity_regular.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="contiguity_transition","solution\contiguity_transition.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="costas_array","solution\costas_array.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="covering_opl","solution\covering_opl.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="crew","solution\crew.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="crossword","solution\crossword.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="crypta","solution\crypta.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="crypto","solution\crypto.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="cscvrptw","solution\cscvrptw.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="csflow","solution\csflow.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="csfz","solution\csfz.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="csintegerprogramming","solution\csintegerprogramming.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="csjobshop","solution\csjobshop.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="csknapsack","solution\csknapsack.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="cslinearprogramming","solution\cslinearprogramming.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="csls_api","solution\csls_api.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="csrabbitspheasants","solution\csrabbitspheasants.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="cstsp","solution\cstsp.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="curious_set_of_integers","solution\curious_set_of_integers.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="debruijn","solution\debruijn.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="diet","solution\diet.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="discrete_tomography","solution\discrete_tomography.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="divisible_by_9_through_1","solution\divisible_by_9_through_1.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="dudeney","solution\dudeney.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="einav_puzzle2","solution\einav_puzzle2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="eq10","solution\eq10.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="eq20","solution\eq20.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="fill_a_pix","solution\fill_a_pix.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="furniture_moving","solution\furniture_moving.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="furniture_moving_intervals","solution\furniture_moving_intervals.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="futoshiki","solution\futoshiki.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="gate_scheduling_sat","solution\gate_scheduling_sat.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="golomb_ruler","solution\golomb_ruler.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="grocery","solution\grocery.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="hidato_table","solution\hidato_table.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="jobshop_ft06_sat","solution\jobshop_ft06_sat.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="just_forgotten","solution\just_forgotten.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="kakuro","solution\kakuro.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="kenken2","solution\kenken2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="killer_sudoku","solution\killer_sudoku.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="labeled_dice","solution\labeled_dice.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="langford","solution\langford.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="least_diff","solution\least_diff.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="lectures","solution\lectures.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="magic_sequence","solution\magic_sequence.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="magic_square","solution\magic_square.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="magic_square_and_cards","solution\magic_square_and_cards.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="map","solution\map.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="map2","solution\map2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="marathon2","solution\marathon2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="max_flow_taha","solution\max_flow_taha.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="max_flow_winston1","solution\max_flow_winston1.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="minesweeper","solution\minesweeper.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="mr_smith","solution\mr_smith.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="nontransitive_dice","solution\nontransitive_dice.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="nqueens","solution\nqueens.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="nurse_rostering_regular","solution\nurse_rostering_regular.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="nurse_rostering_transition","solution\nurse_rostering_transition.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="nurses_sat","solution\nurses_sat.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="olympic","solution\olympic.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="organize_day","solution\organize_day.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="organize_day_intervals","solution\organize_day_intervals.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="p_median","solution\p_median.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="pandigital_numbers","solution\pandigital_numbers.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="partition","solution\partition.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="perfect_square_sequence","solution\perfect_square_sequence.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="photo_problem","solution\photo_problem.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="place_number_puzzle","solution\place_number_puzzle.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="post_office_problem2","solution\post_office_problem2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="quasigroup_completion","solution\quasigroup_completion.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="regex","solution\regex.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="rogo2","solution\rogo2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="scheduling_speakers","solution\scheduling_speakers.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="secret_santa","solution\secret_santa.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="secret_santa2","solution\secret_santa2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="send_more_money","solution\send_more_money.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="send_more_money2","solution\send_more_money2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="send_most_money","solution\send_most_money.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="seseman","solution\seseman.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="set_covering","solution\set_covering.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="set_covering2","solution\set_covering2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="set_covering3","solution\set_covering3.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="set_covering4","solution\set_covering4.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="set_covering_deployment","solution\set_covering_deployment.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="set_covering_skiena","solution\set_covering_skiena.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="set_partition","solution\set_partition.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="sicherman_dice","solution\sicherman_dice.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="ski_assignment","solution\ski_assignment.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="slow_scheduling","solution\slow_scheduling.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="stable_marriage","solution\stable_marriage.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="strimko2","solution\strimko2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="subset_sum","solution\subset_sum.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="sudoku","solution\sudoku.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="survo_puzzle","solution\survo_puzzle.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="techtalk_scheduling","solution\techtalk_scheduling.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="to_num","solution\to_num.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="traffic_lights","solution\traffic_lights.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="volsay","solution\volsay.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="volsay2","solution\volsay2.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="volsay3","solution\volsay3.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="wedding_optimal_chart","solution\wedding_optimal_chart.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="who_killed_agatha","solution\who_killed_agatha.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="word_square","solution\word_square.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="xkcd","solution\xkcd.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="young_tableaux","solution\young_tableaux.csproj","{}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}")="zebra","solution\zebra.csproj","{}"
+EndProject
+
+#EndProjects
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7AFEF5F-7580-45B0-A8F1-8B63CDF73A51}.Debug|x64.ActiveCfg = Debug|x64
+		{E7AFEF5F-7580-45B0-A8F1-8B63CDF73A51}.Debug|x64.Build.0 = Debug|x64
+		{E7AFEF5F-7580-45B0-A8F1-8B63CDF73A51}.Debug|x86.ActiveCfg = Debug|x86
+		{E7AFEF5F-7580-45B0-A8F1-8B63CDF73A51}.Debug|x86.Build.0 = Debug|x86
+		{E7AFEF5F-7580-45B0-A8F1-8B63CDF73A51}.Release|x64.ActiveCfg = Release|x64
+		{E7AFEF5F-7580-45B0-A8F1-8B63CDF73A51}.Release|x64.Build.0 = Release|x64
+		{E7AFEF5F-7580-45B0-A8F1-8B63CDF73A51}.Release|x86.ActiveCfg = Release|x86
+		{E7AFEF5F-7580-45B0-A8F1-8B63CDF73A51}.Release|x86.Build.0 = Release|x86
+		{7084D1DB-2554-4FE3-833E-16BD0082D177}.Debug|x64.ActiveCfg = Debug|x64
+		{7084D1DB-2554-4FE3-833E-16BD0082D177}.Debug|x86.ActiveCfg = Debug|x86
+		{7084D1DB-2554-4FE3-833E-16BD0082D177}.Release|x64.ActiveCfg = Release|x64
+		{7084D1DB-2554-4FE3-833E-16BD0082D177}.Release|x86.ActiveCfg = Release|x86
+		{7E74C275-F822-4817-A940-3EA93C50FD57}.Debug|x64.ActiveCfg = Debug|x64
+		{7E74C275-F822-4817-A940-3EA93C50FD57}.Debug|x64.Build.0 = Debug|x64
+		{7E74C275-F822-4817-A940-3EA93C50FD57}.Debug|x86.ActiveCfg = Debug|x86
+		{7E74C275-F822-4817-A940-3EA93C50FD57}.Debug|x86.Build.0 = Debug|x86
+		{7E74C275-F822-4817-A940-3EA93C50FD57}.Release|x64.ActiveCfg = Release|x64
+		{7E74C275-F822-4817-A940-3EA93C50FD57}.Release|x64.Build.0 = Release|x64
+		{7E74C275-F822-4817-A940-3EA93C50FD57}.Release|x86.ActiveCfg = Release|x86
+		{7E74C275-F822-4817-A940-3EA93C50FD57}.Release|x86.Build.0 = Release|x86
+		{FB4FF416-E290-4D00-AA03-3CF373AF1067}.Debug|x64.ActiveCfg = Debug|x64
+		{FB4FF416-E290-4D00-AA03-3CF373AF1067}.Debug|x64.Build.0 = Debug|x64
+		{FB4FF416-E290-4D00-AA03-3CF373AF1067}.Debug|x86.ActiveCfg = Debug|x86
+		{FB4FF416-E290-4D00-AA03-3CF373AF1067}.Debug|x86.Build.0 = Debug|x86
+		{FB4FF416-E290-4D00-AA03-3CF373AF1067}.Release|x64.ActiveCfg = Release|x64
+		{FB4FF416-E290-4D00-AA03-3CF373AF1067}.Release|x64.Build.0 = Release|x64
+		{FB4FF416-E290-4D00-AA03-3CF373AF1067}.Release|x86.ActiveCfg = Release|x86
+		{FB4FF416-E290-4D00-AA03-3CF373AF1067}.Release|x86.Build.0 = Release|x86
+		{206011C7-15C3-48A5-9AA2-F43064AB8FC4}.Debug|x64.ActiveCfg = Debug|x64
+		{206011C7-15C3-48A5-9AA2-F43064AB8FC4}.Debug|x64.Build.0 = Debug|x64
+		{206011C7-15C3-48A5-9AA2-F43064AB8FC4}.Debug|x86.ActiveCfg = Debug|x86
+		{206011C7-15C3-48A5-9AA2-F43064AB8FC4}.Debug|x86.Build.0 = Debug|x86
+		{206011C7-15C3-48A5-9AA2-F43064AB8FC4}.Release|x64.ActiveCfg = Release|x64
+		{206011C7-15C3-48A5-9AA2-F43064AB8FC4}.Release|x64.Build.0 = Release|x64
+		{206011C7-15C3-48A5-9AA2-F43064AB8FC4}.Release|x86.ActiveCfg = Release|x86
+		{206011C7-15C3-48A5-9AA2-F43064AB8FC4}.Release|x86.Build.0 = Release|x86
+		{4AC717C5-D784-44F4-9B14-C0FF067D23C3}.Debug|x64.ActiveCfg = Debug|x64
+		{4AC717C5-D784-44F4-9B14-C0FF067D23C3}.Debug|x64.Build.0 = Debug|x64
+		{4AC717C5-D784-44F4-9B14-C0FF067D23C3}.Debug|x86.ActiveCfg = Debug|x86
+		{4AC717C5-D784-44F4-9B14-C0FF067D23C3}.Debug|x86.Build.0 = Debug|x86
+		{4AC717C5-D784-44F4-9B14-C0FF067D23C3}.Release|x64.ActiveCfg = Release|x64
+		{4AC717C5-D784-44F4-9B14-C0FF067D23C3}.Release|x64.Build.0 = Release|x64
+		{4AC717C5-D784-44F4-9B14-C0FF067D23C3}.Release|x86.ActiveCfg = Release|x86
+		{4AC717C5-D784-44F4-9B14-C0FF067D23C3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
